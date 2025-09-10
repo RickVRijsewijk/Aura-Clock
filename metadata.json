@@ -1,0 +1,5 @@
+{
+  "name": "Aura Clock",
+  "description": "A visually stunning standby clock application designed for Android-style displays, featuring a variety of unique and cool clock faces. Choose from digital, analog, word, binary, and flip clocks to personalize your screen.",
+  "requestFramePermissions": []
+}
